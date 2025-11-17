@@ -4,7 +4,7 @@
 
 Tôi là một lập trình viên đầy nhiệt huyết, đang theo học chuyên ngành **Hệ thống thông tin** tại **Đại học Cần Thơ**. Tôi đam mê xây dựng các hệ thống Backend có khả năng mở rộng, bảo mật cao và kiến trúc API rõ ràng.
 
-- 🎓 **Học vấn:** Sinh viên năm cuối Đại học Cần Thơ (GPA: 3.25/4.0)
+- 🎓 **Học vấn:** Đại học Cần Thơ (GPA: 3.25/4.0)
 - 🔭 **Tôi đang làm việc với:** Laravel, ReactJS, NextJS
 - 🌱 **Tôi đang tìm hiểu:** Tích hợp AI vào hệ thống, System Architecture
 - 💼 **Kinh nghiệm:** Từng thực tập Frontend (NextJS) tại CUSC
